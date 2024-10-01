@@ -1,2 +1,3 @@
 # LITA_Project
-This is where i want to document my LITA documents.
+
+### Project title: E-Commerce Sales Analysis
