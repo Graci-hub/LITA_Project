@@ -1,4 +1,4 @@
 # LITA_Project
 
-### Project title: E-Commerce Sales Analysis
+### Project title: Test case summary report
 
