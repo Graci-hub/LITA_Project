@@ -33,4 +33,6 @@ select companies.state_code,
   GROUP BY 1
   ORDER BY 3
 ```
+### Data Visualization
 
+![image](https://github.com/user-attachments/assets/51991679-35e7-4706-b64c-2739746cc5a6)
